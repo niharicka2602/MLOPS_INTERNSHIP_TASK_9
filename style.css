@@ -137,12 +137,31 @@ margin-top: 25px;}
   font-size: medium;
 }
 
+.info {
+  position: relative;
+  align-self: center;
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+  padding-top: 15%;
+  color: #fff;
+  font-size: xx-large;
+}
+
+/* output */
+.display{
+  font-size: medium;
+  color: #fff;
+  font-size: x-large;
+  font-family: 'Courier New', Courier, monospace, Impact;
+  margin-left: 24%;
+}
 
 /* input area */
 .areaip {
-  height: 900px;
+  height: 1600px;
   padding-left: 30%;
-  padding-top: 350px;
+  padding-top: 550px;
 }
 
 .internalip {
@@ -171,7 +190,7 @@ button:hover {
               0 2px 20px 0 #8ce3e5 inset, 0 2px 20px 0 #8ce3e5;
 }
 
-input {
+in1 {
   align-self: center;
   text-align: center;
   font-size: x-large;
@@ -188,7 +207,7 @@ input {
   background-color: transparent;
 }
 
-input:hover {
+in1:hover {
   box-shadow: 0 2px 20px 0 #8ce3e5 inset, 0 2px 20px 0 #8ce3e5,
               0 2px 20px 0 #8ce3e5 inset, 0 2px 20px 0 #8ce3e5;
 }
