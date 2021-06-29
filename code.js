@@ -1,6 +1,6 @@
 function lw() {
 
-    var i = document.getElementById("in1").value
+    var i = document.getElementById("input").value
     var idd = "0"
     var final = ""
     if (((i.includes("deployments")) || (i.includes("deploy")) || (i.includes("deployment"))) && ((i.includes("create")) || (i.includes("generate")) || (i.includes("build")))) {
