@@ -190,7 +190,7 @@ button:hover {
               0 2px 20px 0 #8ce3e5 inset, 0 2px 20px 0 #8ce3e5;
 }
 
-in1 {
+input {
   align-self: center;
   text-align: center;
   font-size: x-large;
@@ -207,7 +207,7 @@ in1 {
   background-color: transparent;
 }
 
-in1:hover {
+input:hover {
   box-shadow: 0 2px 20px 0 #8ce3e5 inset, 0 2px 20px 0 #8ce3e5,
               0 2px 20px 0 #8ce3e5 inset, 0 2px 20px 0 #8ce3e5;
 }
