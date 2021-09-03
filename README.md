@@ -1,6 +1,6 @@
-# MLOPS_INTERNSHIP_TASK_9
+# Kubernetes Integration with Python-CGI
+MLOPS_INTERNSHIP_TASK_9
 
-Kubernetes Integration with Python-CGI
 
 Task Description:-
 
